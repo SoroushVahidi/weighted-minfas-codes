@@ -4,9 +4,9 @@ Code to **reproduce experiments** for a **local-ratio heuristic** for the **mini
 
 ## Reference
 
-- Problem: minimal feedback arc set (FAS) in weighted directed graphs.  
-- Benchmarks: DIMACS / graph-benchmarks.  
-- Method: local-ratio heuristic as implemented in this repo.
+- **Problem:** Minimal feedback arc set (FAS) in weighted directed graphs.  
+- **Benchmarks:** DIMACS / graph-benchmarks.  
+- **Method:** Local-ratio heuristic as implemented in this repo. See the paper or report associated with this code for the algorithm description and experimental setup.
 
 ## What is in this repo
 
